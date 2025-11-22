@@ -11,7 +11,7 @@ image: lorenzo-vinales.png
 
 * El de Roses quiere dejar atrás un año realmente complicado por culpa de las lesiones y confía en pentacampeón para dar un vuelco a su carrera
 
-![Lorenzo y Viñales](/assets/img/lorenzo-vinales.png)
+![Lorenzo y Viñales](assets/img/lorenzo-vinales.png)
 
 Era un secreto a voces y ya se ha confirmado. **Maverick Viñales** y **Jorge Lorenzo** unen sus caminos. El piloto del KTM Tech3 quiere dejar atrás un año marcado por su lesión en el hombro y quiere luchar para ser campeón del mundo. Por eso mismo, se alía con el pentacampeón balear, que a partir de este viernes será su **coach.** 
 
