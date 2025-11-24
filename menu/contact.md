@@ -4,4 +4,4 @@ title: Contacto
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Si quieres comprobar más sitios, echa un vistazo a mi [Github](https://github.com/pablosdlm) o al tema [**minima**](https://pablosdlm.github.io/minima)
